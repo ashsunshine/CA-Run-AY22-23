@@ -102,3 +102,24 @@ If everything works, your code should give the following output when q3.py is ru
 8
 10
 ```
+
+<hr>
+<h3>Q4</h3>
+Complete the function <i>get_average</i> that takes in a tuple of numbers:
+
+The function should return the average of the <i>sum</i> of numbers from this tuple
+
+If everything works, your code should give the following output when q4.py is run:
+```
+----Test Case 1----
+3.0
+
+----Test Case 2----
+23.2
+
+----Test Case 3----
+5.0
+
+----Test Case 4----
+250.0
+```
